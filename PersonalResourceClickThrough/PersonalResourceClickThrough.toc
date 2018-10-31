@@ -1,8 +1,0 @@
-## Interface: 80000
-## Title: PersonalResourceClickThrough
-## Version: 1.1
-## Notes: Makes the personal resource click-through
-## Author: Thex
-## DefaultState: enabled
-
-Core.lua
