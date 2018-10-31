@@ -1,9 +1,0 @@
-
-// !!! DO NOT USE THIS FILE !!!
-// It is only here because curse.com requires a toc file, but this is not and addon, it's a library.
-// Please put Cerberus.lua in your addon's folder and add it to that addon's toc file
-
-## Title: Cerberus
-## Version: 1.1
-## Notes: This should not be in your Interface/addons folder!
-## Author: Thex
